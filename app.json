@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Водохлёб",
+    "slug": "vodohlyob",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "vodohlyob",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.vodohlyob.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E9FBFF"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "app.vodohlyob.mobile"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
