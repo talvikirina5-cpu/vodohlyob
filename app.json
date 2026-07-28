@@ -7,6 +7,9 @@
     "scheme": "vodohlyob",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "web": {
+      "output": "single"
+    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "app.vodohlyob.mobile"
@@ -23,7 +26,8 @@
       "expo-font"
     ],
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": true,
+      "baseUrl": "/vodohlyob"
     }
   }
 }

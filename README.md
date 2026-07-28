@@ -2,6 +2,10 @@
 
 Мобильный wellness-трекер воды на React Native, Expo и TypeScript.
 
+## Открыть приложение
+
+Веб-версия: [talvikirina5-cpu.github.io/vodohlyob](https://talvikirina5-cpu.github.io/vodohlyob/)
+
 ## Возможности MVP
 
 - персональный профиль и расчёт дневной нормы;
